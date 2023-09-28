@@ -1,0 +1,643 @@
+commit 2d2e18711b83ce6df420f43468d973846a83ae6a
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:44:44 2023 -0400
+
+    Completely fixed V, memory of test08 not finished
+
+commit e94229366b701cb7c0515d2bf48a693f0f813f8b
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:40:38 2023 -0400
+
+    Completely fixed V, memory of test08 not finished
+
+commit 8a913d2761a47b29333713ef0b08d284ba0f87a5
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:28:19 2023 -0400
+
+    Fixing error on gradescope for V command
+
+commit 39a04d2e23de22cd141b23437a12f3ebbd8d9c62
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:25:15 2023 -0400
+
+    Fixing error on gradescope for V command
+
+commit 1317a84098711bd873b630c7c85345b7febf4bc1
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:23:29 2023 -0400
+
+    Fixing error on gradescope for V command
+
+commit abb7cc5a66a8bbfaca3421046239c07b05aebae0
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:20:19 2023 -0400
+
+    Fixing error on gradescope for V command
+
+commit ce225593209074afc32baebb0ebd07aa32c993c3
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:14:59 2023 -0400
+
+    zipping
+
+commit 04a2c01f5fd0814c7cd04a11d33dfc8e0f0459f9
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:14:40 2023 -0400
+
+    test
+
+commit 2ef0c836e5faf268ea140aeaa6d937090a010fc3
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:04:53 2023 -0400
+
+    Zipped
+
+commit 071f8936eaa3e04fbdc6310f5f67b09faeaf82cd
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 21:03:23 2023 -0400
+
+    please work
+
+commit b53619490c01287276e0868945900a2ac6be8196
+Merge: 5fe725d d77b9e5
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 21:01:50 2023 -0400
+
+    final free
+
+commit 5fe725dc092a5b5b4d8b071019a7415611bb89bc
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 20:57:33 2023 -0400
+
+    final free
+
+commit d77b9e5d12766af4477b0b69da8aef4a1ecfb00d
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:50:56 2023 -0400
+
+    Zipping for submission
+
+commit 826119e79c6a8604630081304f573c5216203bdd
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:50:07 2023 -0400
+
+    Updated more memory leak stuff
+
+commit 715efda67f67031aabc1b246f44d845de9952bdc
+Merge: b4a39d4 c44800c
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 20:42:25 2023 -0400
+
+    aaa
+
+commit c44800c3619ce6619e86fa398954ca42bc2f8274
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:41:16 2023 -0400
+
+    Fixed everything except test8
+
+commit 48f83874e27077e5ce7f455bd216b6f80c17ddf6
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:33:07 2023 -0400
+
+    Rezipped
+
+commit 0d42dca223606bd624b0e27f4d7819d70ed68ac2
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:32:51 2023 -0400
+
+    Idk what I did but fixed it
+
+commit fd7eb6e70c33d59f965224a5f1cb89a45d9e59eb
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:24:32 2023 -0400
+
+    Updating zip
+
+commit 76145e309f1a804bde2ea8e349c57b873310c953
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:24:12 2023 -0400
+
+    Fixing memory leaks
+
+commit b4a39d420f62b6bd29545659d98b5390a7275545
+Merge: 89f60be 744c46c
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 20:03:35 2023 -0400
+
+    aa
+
+commit 89f60be62ceca3ed453c58087968ab79e8981af1
+Merge: cc26636 ebba704
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 20:01:10 2023 -0400
+
+    a
+
+commit 744c46c139f79d42fc66360a563c1161bb3834b8
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 20:00:46 2023 -0400
+
+    Fixed leaks for all tests
+
+commit b286d111986d1e1be5a8740d8e859d4b75b312ac
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:40:32 2023 -0400
+
+    Fixed puzzle_destroy
+
+commit ebba7048372506bbf1d33c18206ee442216bca6e
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:33:20 2023 -0400
+
+    Zipped again
+
+commit 533bd15cdf7b4a652858ab5e720df5f2499727b7
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:33:06 2023 -0400
+
+    Fixed
+
+commit 2c00d70038a6f37f1b7a53659139babc99d2dca4
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:31:57 2023 -0400
+
+    Zipped files
+
+commit cc26636f7690b639a3a3d886247f19e6f61cc071
+Merge: dba3bf9 1c9fc91
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 19:31:01 2023 -0400
+
+    bryce latest
+
+commit dba3bf9a8a84200e5d3abec2a4d188e5f466c242
+Merge: d777753 eec0c1c
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 27 19:26:42 2023 -0400
+
+    Bryce later edits
+
+commit 1c9fc91757b10d5c6fa5e61a61453d356ea3bc7b
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:22:48 2023 -0400
+
+    Commenting to pull
+
+commit 014f9744d693f9a65fca0f4b95e3f6b933c7315d
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:18:41 2023 -0400
+
+    Cleaned redundant code
+
+commit 092990832aa12e2445eb072572506a2a55d11d92
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 19:12:59 2023 -0400
+
+    Fixing error for gradescope test
+
+commit eec0c1cce39777bb6c95d75208fc2977517bfd49
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 15:31:41 2023 -0400
+
+    Zipping files
+
+commit 98125a5b7a9e162397812ffb7408cfff934b7d86
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 15:31:06 2023 -0400
+
+    Wrote to readme
+
+commit e61129c8b9de691c837ba243073596c04ae774cb
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 15:21:08 2023 -0400
+
+    Updates
+
+commit 04300c596d9725f1b65e33b1716018949c83889d
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 15:15:28 2023 -0400
+
+    Even more comments
+
+commit 5794e0b7637f98a9d8f77d628b51dfcec928c916
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 14:54:57 2023 -0400
+
+    Adding more comments / documentation
+
+commit 4db28f66d2cdb186cb89e590827fa22aa095dda0
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 14:45:31 2023 -0400
+
+    Making sure gitlog is writing all this down
+
+commit 1183f713db598f8da2441af473b37d0656dc1556
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 14:45:00 2023 -0400
+
+    Adding comments and documentation to puzzle_funcs
+
+commit 9af962c2994e168693d9c72d0af87fb27188b75d
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 14:14:51 2023 -0400
+
+    Fixed another small change
+
+commit 065d48bbf0e484a76d64c388bfccbe033c6dd067
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 14:12:46 2023 -0400
+
+    Added zip files with changes
+
+commit d5ada7732ba320df60563fde0cdad6bd791a18b8
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:53:35 2023 -0400
+
+    Zipping files
+
+commit 5574bf31d74b70959e0e73fc10453d45eb8171ab
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:45:39 2023 -0400
+
+    Checked all tests
+
+commit 16de42551bc91af798fd62efe1f9cbefc45122c0
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:43:11 2023 -0400
+
+    Checked tests 09-10
+
+commit 705848f12895124359ddc178e72ee0eafc48c68b
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:39:31 2023 -0400
+
+    Fixed test08.txt after testing
+
+commit 89c31c0a1216ab106cf000db1129502cdff648e2
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:38:00 2023 -0400
+
+    Debugging 8
+
+commit 46b3ac2bb10632c0caa8ba6e784386aac867fdeb
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:32:20 2023 -0400
+
+    Fixed memory leaks in I/W, fixed error in S
+
+commit 306cb827ec16a3ac9cd5cac040344bd73ad2da01
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:20:04 2023 -0400
+
+    Checked / fixed tests 6 and 7
+
+commit e1cb9c19378f52db8839ff8c02a34e872e976498
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:11:36 2023 -0400
+
+    Fixed test03
+
+commit 9d1c5669ade15a11adf1265ce7329dfd8f812591
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 13:07:08 2023 -0400
+
+    Fixing test3
+
+commit 3d3492e1b2c1e3af447f42d1f7a0af5596b6b73a
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 12:53:41 2023 -0400
+
+    Fixed test01 output
+
+commit 3b4d688320fe94aa412842503a9b363f2faaad1e
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Mon Mar 27 12:41:09 2023 -0400
+
+    Updating files with local copy
+
+commit d7777536d25db57bc9087e1b6d1277fd70009cca
+Merge: 5665300 46a0af9
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 21 19:05:12 2023 -0400
+
+    puzzl func, p.c p.h puzzle tests from git
+
+commit 5665300fa17878a8887d61b6ad558375870d3c83
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 21 00:28:38 2023 -0400
+
+    latest
+
+commit eb406c01f79577c604fd4a82ba29b1eeb3222e7c
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 21 00:23:20 2023 -0400
+
+    latest
+
+commit 46a0af932e8b1a2522d5da39e5bccf6a4a91e1f8
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 21:46:35 2023 -0400
+
+    debugging k
+
+commit 51cd0b4d0320ea29d553192acd3b1d0200fd9200
+Merge: 8a72cd7 ad60f39
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 21:40:13 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-spring-midterm-bthalhe1-wli128
+
+commit ad60f39c9814da71ffcafede7270569c4483d93a
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 21:30:37 2023 -0400
+
+    Fixing V command since it was not recursively solving properly
+
+commit 8a72cd730a077ed69b1f344814f4cf02e5a247f6
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 21:23:01 2023 -0400
+
+    master
+
+commit 0062bd9e992e5c6d5224ef731689963094cfcaa7
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 21:18:38 2023 -0400
+
+    pre bryce
+
+commit 66f4cf2a3dd7a7c252a91e71e2879bff8e1aeb32
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 21:12:54 2023 -0400
+
+    More debugging / editing
+
+commit f2a0d456d3cde8ba0b9c4e1b80121f15cf1be36c
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 20:56:25 2023 -0400
+
+    fixing some memory leaks (don't need to free individual tiles)
+
+commit 26193412177829eb0214559ea7fc562966b39525
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 16:47:05 2023 -0400
+
+    no memory leaks + doumentation
+
+commit 104d5d098caaeb3ff7db15bb713a56309f3c7383
+Merge: 605d181 32296d5
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 15:15:40 2023 -0400
+
+    Merge pull request #1 from jhu-ip/Bryce
+    
+    Fixing V
+
+commit 32296d5e0d7e5e2d891bd3647e580b53fca1fd73
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 15:10:34 2023 -0400
+
+    Fixing V
+
+commit 605d181aa2fe8b4002ae2de01c3d7ba99fac5434
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 13:46:04 2023 -0400
+
+    update documentation comments
+
+commit 441d1d22dd3015ab85bd0825b7ad52117ef1c53f
+Merge: 57b4600 af6519c
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 13:30:49 2023 -0400
+
+    save
+
+commit af6519cc82fe8a8b8d330fb0ca5d69165f58d629
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 13:26:17 2023 -0400
+
+    Testing gitlog
+
+commit 57b46000c6f423ef5bf5d5f60f148619589aa67f
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 13:25:59 2023 -0400
+
+    save
+
+commit a1a767c12d4283b4ed0d932dd5120a43092b1cad
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 13:24:57 2023 -0400
+
+    Updated puzzle_funcs
+
+commit 69cf5d0072274495e4411f9a3bf11d42d31c3ef5
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 13:20:25 2023 -0400
+
+    Updating files / adding documentation in puzzle_funcs
+
+commit f938cb3a150c81134a678dcf17d4cf85c42f73a4
+Author: BryceThalheimer <bthalheimer6@gmail.com>
+Date:   Thu Mar 16 12:08:04 2023 -0400
+
+    Changes
+
+commit 4fb9d2d29dfc99ea1ffaa9eb2dee0c1dc7b46ee0
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 11:07:08 2023 -0400
+
+    FIXED W
+
+commit 85a8243a75f030b9bfb36bbf98f490540a093ed2
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 10:46:15 2023 -0400
+
+    K fxn made
+
+commit 5fa887749497772b33c44d3c3e9f0e8fccc0b5e4
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 16 01:42:32 2023 -0400
+
+    W function FIXED
+
+commit e8cc8213dc88df0ebc5ad1763d2718b171fc1a1f
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 23:55:47 2023 -0400
+
+    Need to Fix create tile to start with index 1
+
+commit 4ef4d176360c0f96ada6f1510d51d0e5b81a7918
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 22:13:48 2023 -0400
+
+    W is broke, can run
+
+commit 40497b92cb3af13f7ee64b9b3e81553947874da7
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 22:00:03 2023 -0400
+
+    update I command, case W not writing to ppm
+
+commit 6ce798323f56be442aaf44c5243757cedc1384e4
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 21:37:50 2023 -0400
+
+    edits
+
+commit 53094433fdbeca7b84682f1a14fbb17bd859ffab
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 21:04:23 2023 -0400
+
+    puzzle.c edits
+
+commit 249769b6761de4196918e7759c58a3873dcc9b9a
+Merge: e857f06 6468e21
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 20:37:27 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-spring-midterm-bthalhe1-wli128
+
+commit e857f06194ca03c408c8be71ed49a58f63c154c0
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 20:30:07 2023 -0400
+
+    handle_S + puzzle.c dowhile
+
+commit 6468e2129f1f258a6a77eff7c99943333068b2cb
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 20:26:51 2023 -0400
+
+    More V function
+
+commit 1708f1290277ec1edaa8f002df919d3e9258d100
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 20:25:19 2023 -0400
+
+    Fixing V function
+
+commit 34606869864cf54d54d58c11372049d33912bbc1
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 20:13:04 2023 -0400
+
+    Wrote countNumInversions
+
+commit 28e922429bd889e14de6ecd204874841a335d1d7
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 19:53:00 2023 -0400
+
+    S command updated
+
+commit e6bca8532212dca6ded72875911d62ff570c44a4
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 17:20:54 2023 -0400
+
+    Updated S and W
+
+commit 27fb4987befe99eacc3d61744596fa53d6f4f833
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 17:20:19 2023 -0400
+
+    Updating S and W
+
+commit a66174f64ff5823ecceb88f5f1f3f986a5c02db6
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 16:16:39 2023 -0400
+
+    working handle W, get_tile, create_tile, print_tile
+
+commit 0caf245b7d150fab0672a0ba48d93d6c0053218d
+Merge: c8c937b bb96212
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 15:04:41 2023 -0400
+
+    Merge branch 'master' of github.com:jhu-ip/2023-spring-midterm-bthalhe1-wli128
+
+commit c8c937b7b54faa53d52cd62726c1c11533f33e03
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 15:02:23 2023 -0400
+
+    unfinished W
+
+commit bb962122be98ae33d3d9515b8bd2a873f7026797
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 13:46:37 2023 -0400
+
+    Error handling in C
+
+commit f5fbefd6baec4e7bc3594f702701f6d3e226ac42
+Author: BryceThalheimer <bthalhe1@jhu.edu>
+Date:   Wed Mar 15 13:34:48 2023 -0400
+
+    Error handling case C
+
+commit 3a4461e2a51a2e2c521fa001555d9becd7ffa805
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 15 01:40:16 2023 -0400
+
+    broken W command
+
+commit cf9917324e13985c1245d637c9c708a1c2c2d7cf
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 21:43:25 2023 -0400
+
+    fixed get tile
+
+commit 1f232f7f5bf2891cf54a4d1f273aa6b60b54e887
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 21:03:28 2023 -0400
+
+    puzzle_create fixed
+
+commit 197b8050f90fc18a2b63856da7a7e618ff4ed361
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 20:51:11 2023 -0400
+
+    Fix Makefile
+
+commit 2a973394fd10cc3685cedd65560a074a5f134fd3
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 20:38:31 2023 -0400
+
+    Fix makefile
+
+commit d0f2d78db2526e6b4f897a3b57df5ae193f29f31
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 17:52:29 2023 -0400
+
+    incomplete W
+
+commit b95797ab2d6b8463593624b837c383fbe3bdd8f9
+Author: William Li <williamli5709@gmail.com>
+Date:   Tue Mar 14 17:15:46 2023 -0400
+
+    create tile fxn
+
+commit a6d7b4592789369fec02262e239fa2fffc868915
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 13 17:05:22 2023 -0400
+
+    C/T edit 2
+
+commit 541052631aad1b322bc2abb8f3b0047ee40632f5
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 13 11:18:11 2023 -0400
+
+    edit 2
+
+commit c9168068735f6ecd5cf2f8c9e5fe4631286703eb
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Mar 12 19:30:20 2023 -0400
+
+    puzzle.c commands loop
+
+commit 83f366d912e29cffc4566d154c9be8bdb182e382
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 6 21:47:26 2023 -0500
+
+    edit 1
+
+commit 97e69fd3b73283a5731621c6acc6a9d259066f62
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 6 21:41:35 2023 -0500
+
+    starter code

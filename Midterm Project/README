@@ -1,0 +1,22 @@
+README requirements:
+Names and JHED IDs of team members
+Brief summary of contributions of team members
+Interesting aspects of implementation
+
+Bryce Thalheimer, William Li
+bthalhe1, wli128
+
+William started working on the project first, so he did a great job defining functions and creating an outline 
+for the project. He worked through many of the implementations, which Bryce continued. We worked together 
+on some functions (W, V, S, etc) so we understood how they worked and how to approach the problems, and Bryce 
+finished most of the implementations. William did a lot of work with gbd debugging, and Bryce assisted fixing 
+memory leaks / ensuring that the code passed all of the tests (test01 through test11).
+
+The most difficult / interesting aspect of the project was the V (solve) command. However, we took a lot of inspiration 
+from homework 3 in the sense that we created a handle_V_command function that called a recursive V_helper function which
+ continuously recursively called itself until a solution was found. This was particularly interesting since it took a 
+ strong breadth-first search technique to brute-force the solution of the 3x3 tile game. This was interesting since 
+ it seemed inefficient, but after a bit of toying around with alternative approaches that may optimize the V command 
+ such as A* search with a Manhattan distance heuristic, we decided that it wasn't worth the hassle of optimizing it 
+ when it already worked (especially since the spec of the assignment said our original approach was correct). This was a 
+ very interesting command to implement, and it would be very interesting to see how it looked if it could solve the problem optimally!
