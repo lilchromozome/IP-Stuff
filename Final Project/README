@@ -1,0 +1,14 @@
+TEAM
+Peter Xu: wxu69
+William Li: wli128
+
+DESIGN:
+We decided to split this project into 2 parts, one half being creating the data from the math and another part of turning that data into a picture. The math part consisted to expr, expr_parser, func, fill, and plot. The picture part used plot, fill, reader, renderer, image, and color. In the math section, expr had multiple subclasses for each possible expression (x, constant, +, -, *, /, sin, cos). Reader used Expr parser used expr to create a tree of expression nodes. The top node was then passed to function, which could be used in plot to draw out the lines. Function was also used in fill to determine the areas to fill with color which was then passed to plot.
+
+Reader was used to create the plot function. Reader also used bounds to determine the scope of which to visualize the math. Then, renderer took the data that was useful to creating a picture and converted it to a visualization using image which used color for each pixel. Each line and fill was taken from the plot created in reader and its data was written into a PNG image by using pnglite. 
+
+For the point_value implementation, we used a recursive case of eval. There would always be a singular top_node which could have any number of subnodes. When we called eval on top_node, it would call eval on its subnodes and so on until it reached a constant or variable expression. Because constants and variables do not have any subnodes, they were the base case and would return a constant value or the input value respectively. The expression would then be evaluated up the tree until top_node returns a value.
+
+COMPLETENESS:
+We believe our program is 100% complete and is very robust. We passed in many permissible and not permissible inputs to the program and it returned the expected result every time.
+
