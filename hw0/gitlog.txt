@@ -1,0 +1,17 @@
+commit 75f02d29c3ffe6986bef651638b6e652622a3fb8
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 15:34:50 2023 -0500
+
+    completed hw0
+
+commit b9e2af8c262ec98c52d3550ca4068ac1a365065b
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:38:45 2023 -0500
+
+    updated README
+
+commit caea09e7ad55fa47bf9bacb14d740d4c1339e4d9
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:36:21 2023 -0500
+
+    created REEADME

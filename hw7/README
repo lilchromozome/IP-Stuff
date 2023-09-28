@@ -1,0 +1,11 @@
+William Li
+wli128
+
+I defined a default and non-default constructor to initialize a dataloop. Then, I defined an assignment operator that would first clear the previous data in the dataloop, then insert the new data from another dataloop. Then, I used that assignment operator to define the copy constructor. In line with the rule of 3, I also then wrote a non-default destructor to destroy the dataloops.
+Before I started coding the overloaded operators, I coded the << operator to add the dataloop to the ostream which helped me debug.
+
+I overloaded the += operator which acted like the pushback function of a vector to the dataloop. Then, I overloaded the == operator to compare 2 different dataloops. In the + (concatonate) operator I used the += operator to add new data to the left dataloop. The ^ operator could move the start node which would come in handy later. lastly, in the splice function I used +, ^, and + previously defined overloaded operators and the default constructor to write a concise function.
+
+Afterward, I imported all of the code from DataLoop.cpp to a .inc file and redefined all the DataLoop objects to TDataloop objects with template <typename T>. The logic/code was exactly the except for a few times when instead of storing an integer into data, it would be typename T.
+
+I think I did a very god job of reusing previously defined code and there was no repitition of code in my process. 

@@ -1,0 +1,15 @@
+William Li
+wli128
+
+I first defined a datatype "trigram" which is a tuple that contains 3 strings and dict, which is a map that holds 
+each trigram mapped to an integer representing its frequency.
+I then defined functions readFile which uses the function readWords for each file listed in the argument file.
+readWords takes a file and creates a string vector with all the words, readFile takes that vector and converts it
+to trigrams using get_trigrams and updates the map with update_dict.
+
+Then, I used an iterator for the a command and the reverse iterator for the d command.
+The c command used a helper comparison function in sort to print the dictionary in descending order by trigram
+frequency. Then I used an iterator to print the custom sorted list.
+For the f command, I iterated through the dictionary until I found a trigram that matched the inputs, then
+I printed the one with the highest frequency. Knowing that the dictionary is already in alphabetical order,
+ties of frequency would automatically be broken by the earlier instance.

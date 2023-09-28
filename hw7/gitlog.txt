@@ -1,0 +1,161 @@
+commit f9c0e85b7024bbb2705e79890e7343692e2ded85
+Author: William Li <williamli5709@gmail.com>
+Date:   Sat Apr 15 13:13:50 2023 -0400
+
+    final
+
+commit 9f10f9e596a376b633e5c4d79d51c60a56fb0db6
+Author: William Li <williamli5709@gmail.com>
+Date:   Sat Apr 15 12:47:22 2023 -0400
+
+    all valgrind erros fixed
+
+commit 1efefc770935630f24fbd493ba67add3c0a9fe06
+Author: William Li <williamli5709@gmail.com>
+Date:   Sat Apr 15 12:25:39 2023 -0400
+
+    clear previous in op= working
+
+commit 2b6a53104a1e1a4d7ae0e066f7cdfc9acc0a11a2
+Author: William Li <williamli5709@gmail.com>
+Date:   Sat Apr 15 12:20:56 2023 -0400
+
+    fixed copy constructor
+
+commit 759fb1ed598652c6fc779725681d2470cce107cc
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Apr 13 16:57:28 2023 -0400
+
+    first submit
+
+commit b4111988c09a430856785185454b5e89b0329675
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Apr 13 16:46:54 2023 -0400
+
+    .inc file made
+
+commit 8e0c69cf58ef4ad97f0f085e391189c2a410f5f9
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Apr 13 16:25:23 2023 -0400
+
+    finished
+
+commit 0fe07d13439b58ac920fdc49cf3cb57308529e76
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Apr 12 23:26:33 2023 -0400
+
+    template class ok
+
+commit 56c9fc286baabcdede9564e43bcda932ca7e8b16
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Apr 12 22:00:52 2023 -0400
+
+    splice buggy, everything else good
+
+commit 9cfdbb73422c85b1c2a8aefe93ef786b18c773d3
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Mar 31 20:57:17 2023 -0400
+
+    final hw5
+
+commit dad99d2081a623b436326ef21c56d1a6c57d8a3f
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Mar 31 12:15:54 2023 -0400
+
+    working hw5
+
+commit 4549267d2872b9d75a6b26e8947f1bd0ec9145a8
+Author: William Li <williamli5709@gmail.com>
+Date:   Thu Mar 30 23:55:08 2023 -0400
+
+    working code
+
+commit d45b0211daedc2457275973c473141453a5bd811
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Mar 29 12:46:32 2023 -0400
+
+    hw5 not printing
+
+commit 7dba2cda632090bf81d331e32ed986d9b54c2c1f
+Author: William Li <williamli5709@gmail.com>
+Date:   Mon Mar 6 21:35:39 2023 -0500
+
+    ex12
+
+commit 1d3c13853f4e072b97f29d8f00b47fc38082619e
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Mar 5 16:21:46 2023 -0500
+
+    ex05
+
+commit 5665a876ea6da4e26432225aca2b233b01ae9efc
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Mar 5 16:21:22 2023 -0500
+
+    ex05
+
+commit c314b0fac88fbe54cad8cf8c5d6c65e0a0c901b0
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Mar 5 15:38:52 2023 -0500
+
+    ex04
+
+commit e324af712d92c0b444517199ac7ab1d372232f35
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 24 22:32:50 2023 -0500
+
+    hw3
+
+commit 4e4915992ba28c221717b79486bac6fdab8aca95
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 24 18:25:08 2023 -0500
+
+    hw3
+
+commit 25d58451c438f570d1013cea47da034735a6194a
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 22 11:06:48 2023 -0500
+
+    first attempt hw3
+
+commit ffb8e9a3b48775169bcd8c8e44148329fd212d05
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 12 23:18:02 2023 -0500
+
+    hw2 files
+
+commit 74fde217d5ba0c9154da5a3e23b2450addd7c60d
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 10 00:12:26 2023 -0500
+
+    add exercises
+
+commit 7261f4b4ba3d235818e1dbce47d9a3bffffe4759
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 8 22:16:57 2023 -0500
+
+    hw1 final
+
+commit 83f551f8ddb584cf5eb5c8f7ead1ef0553830fb7
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 8 18:00:06 2023 -0500
+
+    first attempt of hw1
+
+commit 75f02d29c3ffe6986bef651638b6e652622a3fb8
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 15:34:50 2023 -0500
+
+    completed hw0
+
+commit b9e2af8c262ec98c52d3550ca4068ac1a365065b
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:38:45 2023 -0500
+
+    updated README
+
+commit caea09e7ad55fa47bf9bacb14d740d4c1339e4d9
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:36:21 2023 -0500
+
+    created REEADME

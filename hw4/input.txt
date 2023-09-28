@@ -1,0 +1,6 @@
+This is an input file.
+It has some pretty awesome stuff in it.
+Ok, that's all for now.
+a
+a
+a
