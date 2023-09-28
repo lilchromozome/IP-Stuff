@@ -1,0 +1,26 @@
+William Li
+wli128
+
+read_file: this function uses a for loop and fscanf to get each line of the 
+input file until there are no more lines or if there is an error reading
+the input file.
+
+match: 
+1. Check if there is a * after current 
+    -let the first term match of regex the match with charactes on word until no match
+    -if it is wrong, recursive backtracking and try skipping current 'a*' term
+        -In case there are repeat regex terms like "a*a*a*a*a", it would still match "a"
+2. else Check if there is a ? after current term
+    -let the first term match of regex the first match on word
+    -if it is wrong, recursive backtracking and try skipping current 'a?' term
+3. else Check if term is ~
+    -for loop until there is a match or end of restriction
+4. else check if the current term in word and regex match
+    -next character in word and regex
+5. else, no match return 0
+
+main:
+- First checks how many outputs to assign restriction and read the given file
+- Loop to collect the regex from the user and sift through the array that 
+    contains all the words from the file to match the regex
+

@@ -1,0 +1,59 @@
+commit e324af712d92c0b444517199ac7ab1d372232f35
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 24 22:32:50 2023 -0500
+
+    hw3
+
+commit 4e4915992ba28c221717b79486bac6fdab8aca95
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 24 18:25:08 2023 -0500
+
+    hw3
+
+commit 25d58451c438f570d1013cea47da034735a6194a
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 22 11:06:48 2023 -0500
+
+    first attempt hw3
+
+commit ffb8e9a3b48775169bcd8c8e44148329fd212d05
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 12 23:18:02 2023 -0500
+
+    hw2 files
+
+commit 74fde217d5ba0c9154da5a3e23b2450addd7c60d
+Author: William Li <williamli5709@gmail.com>
+Date:   Fri Feb 10 00:12:26 2023 -0500
+
+    add exercises
+
+commit 7261f4b4ba3d235818e1dbce47d9a3bffffe4759
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 8 22:16:57 2023 -0500
+
+    hw1 final
+
+commit 83f551f8ddb584cf5eb5c8f7ead1ef0553830fb7
+Author: William Li <williamli5709@gmail.com>
+Date:   Wed Feb 8 18:00:06 2023 -0500
+
+    first attempt of hw1
+
+commit 75f02d29c3ffe6986bef651638b6e652622a3fb8
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 15:34:50 2023 -0500
+
+    completed hw0
+
+commit b9e2af8c262ec98c52d3550ca4068ac1a365065b
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:38:45 2023 -0500
+
+    updated README
+
+commit caea09e7ad55fa47bf9bacb14d740d4c1339e4d9
+Author: William Li <williamli5709@gmail.com>
+Date:   Sun Feb 5 14:36:21 2023 -0500
+
+    created REEADME
